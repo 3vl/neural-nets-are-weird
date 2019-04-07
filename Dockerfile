@@ -1,4 +1,4 @@
-FROM continuumio/anaconda
+FROM continuumio/anaconda:5.1.0
 
 RUN chmod a+rwx /home
 
